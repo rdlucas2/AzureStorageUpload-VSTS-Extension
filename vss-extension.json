@@ -12,7 +12,7 @@
         "Build and release"
     ],
     "galleryFlags": [
-        "Public"
+        "Private"
     ],
     "tags": [
         "Azure",
