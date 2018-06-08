@@ -1,0 +1,1 @@
+This is a fork of another extension but it was missing arguments needed to set the content type with azcopy command.
