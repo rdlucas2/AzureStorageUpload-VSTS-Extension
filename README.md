@@ -1,3 +1,5 @@
+Fork by Ryan Lucas because original maintener unresponsive to pull request, original info:
+
 Find it in the VSTS Marketplace: [https://marketplace.visualstudio.com/items?itemName=MFelling.AzureStorageUpload](https://marketplace.visualstudio.com/items?itemName=MFelling.AzureStorageUpload)
 
 ### Upload a file to Azure storage
